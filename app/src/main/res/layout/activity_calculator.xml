@@ -23,6 +23,14 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.064" />
 
+    <TextView
+        android:id="@+id/total_dead_money"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Total Dead Money:"
+        tools:layout_editor_absoluteX="134dp"
+        tools:layout_editor_absoluteY="27dp" />
+
     <ListView
         android:id="@+id/roster_listView"
         android:layout_width="0dp"

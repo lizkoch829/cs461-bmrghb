@@ -6,6 +6,9 @@
     <string name="title_activity_player">PlayerActivity</string>
     
     <string-array name="player_options">
-        <item></item>
+        <item>June 1 Cut</item>
+        <item>Extension</item>
+        <item>Restructure</item>
+        <item>Trade</item>
     </string-array>
 </resources>
