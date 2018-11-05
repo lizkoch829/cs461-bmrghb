@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">benlizapp-second</string>
+    <string name="app_title">N.F.L. Cap Space Calculator</string>
+    <string name="select_team">Select Team</string>
+    <string name="title_screen_instructions">Scroll to your favorite N.F.L. by swiping up and down on the list of teams. Once you\'ve found your team, select them by pressing on the team\'s name.</string>
+</resources>
